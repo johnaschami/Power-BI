@@ -1,6 +1,6 @@
 # Power BI Project
 
-![Star vs Snowflake Schema](Assets/Star%20vs%20Snowflake%20schema.png)
+                                                    ![Star vs Snowflake Schema](Assets/Star%20vs%20Snowflake%20schema.png)
 
 ## Overview
 This repository contains Power BI resources, including datasets and assets, to support data visualization and analysis. The goal of this project is to determine if a US National tutoring program is effective in improving math and reading scores. We aim to analyze the data to validate our hypothesis and derive meaningful insights.
@@ -14,8 +14,9 @@ We aim to answer the following questions:
 - How do extracurricular activities affect student scores?
 
 ## Repository Structure
-- **Assets/**: Contains images and reference materials.
-- **Datasets/**: Includes raw data used for Power BI reports.
+- **Assets**: Contains images and reference materials.
+- **Datasets**: Includes raw data used for Power BI reports.
+- **.pbix **: Power BI Desktop file (contains reports, semantic model, and visuals).
 
 ## Power BI Licensing & Limitations
 Power BI comes in different versions:
